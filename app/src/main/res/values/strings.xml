@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practical_1</string>
+    <string name="roll_lable">ROLL</string>
+    <string name="countup_button">CountUp</string>
+</resources>
